@@ -1,7 +1,7 @@
 import './App.css'
-import Home from '../halaman/home'
-import DetailPortfolio from '../halaman/DetailPortfolio'
-import Education from '../halaman/Education'
+import Home from './halaman/home'
+import DetailPortfolio from './halaman/DetailPortfolio'
+import Education from './halaman/Education'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 
 function App() {
